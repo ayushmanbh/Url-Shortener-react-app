@@ -22,4 +22,6 @@ This project uses [Shrtcode url shortener Api](https://app.shrtco.de/).
 
 > npm intall && npm start
 
+> Open http://localhost:3000 to view it in the browser.
+
 To learn React, check out the [React documentation](https://reactjs.org/).
